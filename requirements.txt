@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+markdown==3.6
+openai==1.30.1
+requests==2.31.0
+rich==13.7.1

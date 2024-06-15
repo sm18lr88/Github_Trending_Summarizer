@@ -1,0 +1,52 @@
+/* Sepia-style Theme for HTML Rendering */
+body {
+    background-color: #f4ecd8;
+    font-family: "Merriweather", Georgia, serif;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    color: #5b4636;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Merriweather", Georgia, serif;
+    color: #5b4636;
+    margin-top: 1.4em;
+    margin-bottom: 0.6em;
+}
+
+p {
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+}
+
+code, pre {
+    background-color: #f3eac7;
+    border-radius: 3px;
+    padding: 2px 4px;
+}
+
+blockquote {
+    border-left: 4px solid #d0c4af;
+    color: #5b4636;
+    padding-left: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    font-style: italic;
+}
+
+ul, ol {
+    padding-left: 40px;
+}
+
+hr {
+    border: 1px solid #d0c4af;
+}
+
+.container {
+    background-color: #fffaf0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
