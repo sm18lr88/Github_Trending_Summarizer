@@ -43,15 +43,15 @@ You can also choose to delete the created files after viewing them.
 
 ## Examples
 ---
-<image src='https://github.com/sm18lr88/Github_Trending_Summarizer/assets/64564447/7ac60372-9453-4f39-80f3-814520f6959f' width='650'>
+<image src='https://github.com/sm18lr88/Github_Trending_Summarizer/assets/64564447/7ac60372-9453-4f39-80f3-814520f6959f' width='800'>
     
 ---
 
-<image src='https://github.com/sm18lr88/Github_Trending_Summarizer/assets/64564447/302895ae-7ef0-48e3-930a-620a56c2788e' width='650'>
+<image src='https://github.com/sm18lr88/Github_Trending_Summarizer/assets/64564447/302895ae-7ef0-48e3-930a-620a56c2788e' width='800'>
     
 ---
 
-<image src='https://github.com/sm18lr88/Github_Trending_Summarizer/assets/64564447/f6c07204-950d-47e7-bcf4-cdd38b0c58e2' width='650'>
+<image src='https://github.com/sm18lr88/Github_Trending_Summarizer/assets/64564447/f6c07204-950d-47e7-bcf4-cdd38b0c58e2' width='800'>
 
 
 ## License
